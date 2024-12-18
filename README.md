@@ -62,4 +62,4 @@ raster_blur_effect(
 # Example Input and Output
 Here is a comparison of the input and output images:
 
-<table> <tr> <td><strong>Original Image</strong></td> <td><strong>Processed Image</strong></td> </tr> <tr> <td><img src="photos/65353.jpg" alt="Original Image" width="300"></td> <td><img src="photos/65353_rasterization.jpg" alt="Processed Image" width="300"></td> </tr> </table> ```
+<table> <tr> <td><strong>Original Image</strong></td> <td><strong>Processed Image</strong></td> </tr> <tr> <td><img src="photos/65353.jpg" alt="Original Image" width="400"></td> <td><img src="photos/65353_rasterization.jpg" alt="Processed Image" width="400"></td> </tr> </table>
