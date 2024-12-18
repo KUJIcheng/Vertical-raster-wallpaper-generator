@@ -54,10 +54,12 @@ raster_blur_effect(
 - **highlight_intensity**: Intensity of the highlight gradient on the left side of each slice (range: 0.0 to 1.0).
 - **shadow_intensity**: Intensity of the shadow gradient on the right side of each slice (range: 0.0 to 1.0).
 
-# Output
-The processed image is saved to the specified output path with effects applied as per the given parameters.
-
 # Customization
 - Increase or decrease **slice_count** for more or fewer slices.
 - Modify **blur_radius** for sharper or smoother blurring.
 - Tweak **highlight_intensity** and **shadow_intensity** for subtle or prominent highlights and shadows.
+
+# Example Input and Output
+Here is a comparison of the input and output images:
+
+<table> <tr> <td><strong>Original Image</strong></td> <td><strong>Processed Image</strong></td> </tr> <tr> <td><img src="photos/65353.jpg" alt="Original Image" width="300"></td> <td><img src="photos/65353_rasterization.jpg" alt="Processed Image" width="300"></td> </tr> </table> ```
